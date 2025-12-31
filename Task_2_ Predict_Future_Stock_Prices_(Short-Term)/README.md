@@ -1,4 +1,4 @@
-# Apple Stock Price Prediction (Short-Term)
+# Predict Future Stock Prices (Short-Term) 
 
 ## Project Overview
 This project focuses on **short-term stock price prediction** using historical market data of **Apple Inc. (AAPL)**.  
